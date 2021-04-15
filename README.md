@@ -5,3 +5,11 @@
 Follow Me
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/__aarmstrong__?label=Follow%20Me&logo=Twitter&style=for-the-badge)
+
+--------
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-plott&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashley-plott&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
